@@ -1,3 +1,3 @@
 # Wiki
 
-Hello there
+Hello
